@@ -1,210 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="223" height="223" viewBox="0 0 223 223">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: none;
-      }
-
-      .cls-2 {
-        clip-path: url(#clip-path);
-      }
-    </style>
-    <clipPath id="clip-path">
-      <rect class="cls-1" width="223" height="223"/>
-    </clipPath>
-  </defs>
-  <g id="Repetir_cuadrícula_1" data-name="Repetir cuadrícula 1" class="cls-2">
-    <g transform="translate(-55 -349)">
-      <circle id="Elipse_1" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(-25 -349)">
-      <circle id="Elipse_1-2" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(5 -349)">
-      <circle id="Elipse_1-3" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(35 -349)">
-      <circle id="Elipse_1-4" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(65 -349)">
-      <circle id="Elipse_1-5" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(95 -349)">
-      <circle id="Elipse_1-6" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(125 -349)">
-      <circle id="Elipse_1-7" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(155 -349)">
-      <circle id="Elipse_1-8" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(-55 -319)">
-      <circle id="Elipse_1-9" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(-25 -319)">
-      <circle id="Elipse_1-10" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(5 -319)">
-      <circle id="Elipse_1-11" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(35 -319)">
-      <circle id="Elipse_1-12" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(65 -319)">
-      <circle id="Elipse_1-13" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(95 -319)">
-      <circle id="Elipse_1-14" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(125 -319)">
-      <circle id="Elipse_1-15" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(155 -319)">
-      <circle id="Elipse_1-16" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(-55 -289)">
-      <circle id="Elipse_1-17" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(-25 -289)">
-      <circle id="Elipse_1-18" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(5 -289)">
-      <circle id="Elipse_1-19" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(35 -289)">
-      <circle id="Elipse_1-20" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(65 -289)">
-      <circle id="Elipse_1-21" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(95 -289)">
-      <circle id="Elipse_1-22" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(125 -289)">
-      <circle id="Elipse_1-23" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(155 -289)">
-      <circle id="Elipse_1-24" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(-55 -259)">
-      <circle id="Elipse_1-25" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(-25 -259)">
-      <circle id="Elipse_1-26" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(5 -259)">
-      <circle id="Elipse_1-27" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(35 -259)">
-      <circle id="Elipse_1-28" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(65 -259)">
-      <circle id="Elipse_1-29" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(95 -259)">
-      <circle id="Elipse_1-30" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(125 -259)">
-      <circle id="Elipse_1-31" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(155 -259)">
-      <circle id="Elipse_1-32" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(-55 -229)">
-      <circle id="Elipse_1-33" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(-25 -229)">
-      <circle id="Elipse_1-34" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(5 -229)">
-      <circle id="Elipse_1-35" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(35 -229)">
-      <circle id="Elipse_1-36" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(65 -229)">
-      <circle id="Elipse_1-37" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(95 -229)">
-      <circle id="Elipse_1-38" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(125 -229)">
-      <circle id="Elipse_1-39" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(155 -229)">
-      <circle id="Elipse_1-40" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(-55 -199)">
-      <circle id="Elipse_1-41" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(-25 -199)">
-      <circle id="Elipse_1-42" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(5 -199)">
-      <circle id="Elipse_1-43" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(35 -199)">
-      <circle id="Elipse_1-44" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(65 -199)">
-      <circle id="Elipse_1-45" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(95 -199)">
-      <circle id="Elipse_1-46" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(125 -199)">
-      <circle id="Elipse_1-47" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(155 -199)">
-      <circle id="Elipse_1-48" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(-55 -169)">
-      <circle id="Elipse_1-49" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(-25 -169)">
-      <circle id="Elipse_1-50" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(5 -169)">
-      <circle id="Elipse_1-51" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(35 -169)">
-      <circle id="Elipse_1-52" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(65 -169)">
-      <circle id="Elipse_1-53" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(95 -169)">
-      <circle id="Elipse_1-54" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(125 -169)">
-      <circle id="Elipse_1-55" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(155 -169)">
-      <circle id="Elipse_1-56" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(-55 -139)">
-      <circle id="Elipse_1-57" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(-25 -139)">
-      <circle id="Elipse_1-58" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(5 -139)">
-      <circle id="Elipse_1-59" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(35 -139)">
-      <circle id="Elipse_1-60" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(65 -139)">
-      <circle id="Elipse_1-61" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(95 -139)">
-      <circle id="Elipse_1-62" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(125 -139)">
-      <circle id="Elipse_1-63" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-    <g transform="translate(155 -139)">
-      <circle id="Elipse_1-64" data-name="Elipse 1" cx="5" cy="5" r="5" transform="translate(55 349)"/>
-    </g>
-  </g>
+<svg width="125" height="125" viewBox="0 0 223 223" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" fill="#09015F"/>
+<path d="M35 10C37.7614 10 40 7.76142 40 5C40 2.23858 37.7614 0 35 0C32.2386 0 30 2.23858 30 5C30 7.76142 32.2386 10 35 10Z" fill="#09015F"/>
+<path d="M65 10C67.7614 10 70 7.76142 70 5C70 2.23858 67.7614 0 65 0C62.2386 0 60 2.23858 60 5C60 7.76142 62.2386 10 65 10Z" fill="#AF0069"/>
+<path d="M95 10C97.7614 10 100 7.76142 100 5C100 2.23858 97.7614 0 95 0C92.2386 0 90 2.23858 90 5C90 7.76142 92.2386 10 95 10Z" fill="#AF0069"/>
+<path d="M125 10C127.761 10 130 7.76142 130 5C130 2.23858 127.761 0 125 0C122.239 0 120 2.23858 120 5C120 7.76142 122.239 10 125 10Z" fill="#55B3B1"/>
+<path d="M155 10C157.761 10 160 7.76142 160 5C160 2.23858 157.761 0 155 0C152.239 0 150 2.23858 150 5C150 7.76142 152.239 10 155 10Z" fill="#55B3B1"/>
+<path d="M185 10C187.761 10 190 7.76142 190 5C190 2.23858 187.761 0 185 0C182.239 0 180 2.23858 180 5C180 7.76142 182.239 10 185 10Z" fill="#F6C065"/>
+<path d="M215 10C217.761 10 220 7.76142 220 5C220 2.23858 217.761 0 215 0C212.239 0 210 2.23858 210 5C210 7.76142 212.239 10 215 10Z" fill="#F6C065"/>
+<path d="M5 40C7.76142 40 10 37.7614 10 35C10 32.2386 7.76142 30 5 30C2.23858 30 0 32.2386 0 35C0 37.7614 2.23858 40 5 40Z" fill="#09015F"/>
+<path d="M35 40C37.7614 40 40 37.7614 40 35C40 32.2386 37.7614 30 35 30C32.2386 30 30 32.2386 30 35C30 37.7614 32.2386 40 35 40Z" fill="#09015F"/>
+<path d="M65 40C67.7614 40 70 37.7614 70 35C70 32.2386 67.7614 30 65 30C62.2386 30 60 32.2386 60 35C60 37.7614 62.2386 40 65 40Z" fill="#AF0069"/>
+<path d="M95 40C97.7614 40 100 37.7614 100 35C100 32.2386 97.7614 30 95 30C92.2386 30 90 32.2386 90 35C90 37.7614 92.2386 40 95 40Z" fill="#AF0069"/>
+<path d="M125 40C127.761 40 130 37.7614 130 35C130 32.2386 127.761 30 125 30C122.239 30 120 32.2386 120 35C120 37.7614 122.239 40 125 40Z" fill="#55B3B1"/>
+<path d="M155 40C157.761 40 160 37.7614 160 35C160 32.2386 157.761 30 155 30C152.239 30 150 32.2386 150 35C150 37.7614 152.239 40 155 40Z" fill="#55B3B1"/>
+<path d="M185 40C187.761 40 190 37.7614 190 35C190 32.2386 187.761 30 185 30C182.239 30 180 32.2386 180 35C180 37.7614 182.239 40 185 40Z" fill="#F6C065"/>
+<path d="M215 40C217.761 40 220 37.7614 220 35C220 32.2386 217.761 30 215 30C212.239 30 210 32.2386 210 35C210 37.7614 212.239 40 215 40Z" fill="#F6C065"/>
+<path d="M5 70C7.76142 70 10 67.7614 10 65C10 62.2386 7.76142 60 5 60C2.23858 60 0 62.2386 0 65C0 67.7614 2.23858 70 5 70Z" fill="#AF0069"/>
+<path d="M35 70C37.7614 70 40 67.7614 40 65C40 62.2386 37.7614 60 35 60C32.2386 60 30 62.2386 30 65C30 67.7614 32.2386 70 35 70Z" fill="#AF0069"/>
+<path d="M65 70C67.7614 70 70 67.7614 70 65C70 62.2386 67.7614 60 65 60C62.2386 60 60 62.2386 60 65C60 67.7614 62.2386 70 65 70Z" fill="#AF0069"/>
+<path d="M95 70C97.7614 70 100 67.7614 100 65C100 62.2386 97.7614 60 95 60C92.2386 60 90 62.2386 90 65C90 67.7614 92.2386 70 95 70Z" fill="#AF0069"/>
+<path d="M125 70C127.761 70 130 67.7614 130 65C130 62.2386 127.761 60 125 60C122.239 60 120 62.2386 120 65C120 67.7614 122.239 70 125 70Z" fill="#55B3B1"/>
+<path d="M155 70C157.761 70 160 67.7614 160 65C160 62.2386 157.761 60 155 60C152.239 60 150 62.2386 150 65C150 67.7614 152.239 70 155 70Z" fill="#55B3B1"/>
+<path d="M185 70C187.761 70 190 67.7614 190 65C190 62.2386 187.761 60 185 60C182.239 60 180 62.2386 180 65C180 67.7614 182.239 70 185 70Z" fill="#F6C065"/>
+<path d="M215 70C217.761 70 220 67.7614 220 65C220 62.2386 217.761 60 215 60C212.239 60 210 62.2386 210 65C210 67.7614 212.239 70 215 70Z" fill="#F6C065"/>
+<path d="M5 100C7.76142 100 10 97.7614 10 95C10 92.2386 7.76142 90 5 90C2.23858 90 0 92.2386 0 95C0 97.7614 2.23858 100 5 100Z" fill="#AF0069"/>
+<path d="M35 100C37.7614 100 40 97.7614 40 95C40 92.2386 37.7614 90 35 90C32.2386 90 30 92.2386 30 95C30 97.7614 32.2386 100 35 100Z" fill="#AF0069"/>
+<path d="M65 100C67.7614 100 70 97.7614 70 95C70 92.2386 67.7614 90 65 90C62.2386 90 60 92.2386 60 95C60 97.7614 62.2386 100 65 100Z" fill="#AF0069"/>
+<path d="M95 100C97.7614 100 100 97.7614 100 95C100 92.2386 97.7614 90 95 90C92.2386 90 90 92.2386 90 95C90 97.7614 92.2386 100 95 100Z" fill="#AF0069"/>
+<path d="M125 100C127.761 100 130 97.7614 130 95C130 92.2386 127.761 90 125 90C122.239 90 120 92.2386 120 95C120 97.7614 122.239 100 125 100Z" fill="#55B3B1"/>
+<path d="M155 100C157.761 100 160 97.7614 160 95C160 92.2386 157.761 90 155 90C152.239 90 150 92.2386 150 95C150 97.7614 152.239 100 155 100Z" fill="#55B3B1"/>
+<path d="M185 100C187.761 100 190 97.7614 190 95C190 92.2386 187.761 90 185 90C182.239 90 180 92.2386 180 95C180 97.7614 182.239 100 185 100Z" fill="#F6C065"/>
+<path d="M215 100C217.761 100 220 97.7614 220 95C220 92.2386 217.761 90 215 90C212.239 90 210 92.2386 210 95C210 97.7614 212.239 100 215 100Z" fill="#F6C065"/>
+<path d="M5 130C7.76142 130 10 127.761 10 125C10 122.239 7.76142 120 5 120C2.23858 120 0 122.239 0 125C0 127.761 2.23858 130 5 130Z" fill="#55B3B1"/>
+<path d="M35 130C37.7614 130 40 127.761 40 125C40 122.239 37.7614 120 35 120C32.2386 120 30 122.239 30 125C30 127.761 32.2386 130 35 130Z" fill="#55B3B1"/>
+<path d="M65 130C67.7614 130 70 127.761 70 125C70 122.239 67.7614 120 65 120C62.2386 120 60 122.239 60 125C60 127.761 62.2386 130 65 130Z" fill="#55B3B1"/>
+<path d="M95 130C97.7614 130 100 127.761 100 125C100 122.239 97.7614 120 95 120C92.2386 120 90 122.239 90 125C90 127.761 92.2386 130 95 130Z" fill="#55B3B1"/>
+<path d="M125 130C127.761 130 130 127.761 130 125C130 122.239 127.761 120 125 120C122.239 120 120 122.239 120 125C120 127.761 122.239 130 125 130Z" fill="#55B3B1"/>
+<path d="M155 130C157.761 130 160 127.761 160 125C160 122.239 157.761 120 155 120C152.239 120 150 122.239 150 125C150 127.761 152.239 130 155 130Z" fill="#55B3B1"/>
+<path d="M185 130C187.761 130 190 127.761 190 125C190 122.239 187.761 120 185 120C182.239 120 180 122.239 180 125C180 127.761 182.239 130 185 130Z" fill="#F6C065"/>
+<path d="M215 130C217.761 130 220 127.761 220 125C220 122.239 217.761 120 215 120C212.239 120 210 122.239 210 125C210 127.761 212.239 130 215 130Z" fill="#F6C065"/>
+<path d="M5 160C7.76142 160 10 157.761 10 155C10 152.239 7.76142 150 5 150C2.23858 150 0 152.239 0 155C0 157.761 2.23858 160 5 160Z" fill="#55B3B1"/>
+<path d="M35 160C37.7614 160 40 157.761 40 155C40 152.239 37.7614 150 35 150C32.2386 150 30 152.239 30 155C30 157.761 32.2386 160 35 160Z" fill="#55B3B1"/>
+<path d="M65 160C67.7614 160 70 157.761 70 155C70 152.239 67.7614 150 65 150C62.2386 150 60 152.239 60 155C60 157.761 62.2386 160 65 160Z" fill="#55B3B1"/>
+<path d="M95 160C97.7614 160 100 157.761 100 155C100 152.239 97.7614 150 95 150C92.2386 150 90 152.239 90 155C90 157.761 92.2386 160 95 160Z" fill="#55B3B1"/>
+<path d="M125 160C127.761 160 130 157.761 130 155C130 152.239 127.761 150 125 150C122.239 150 120 152.239 120 155C120 157.761 122.239 160 125 160Z" fill="#55B3B1"/>
+<path d="M155 160C157.761 160 160 157.761 160 155C160 152.239 157.761 150 155 150C152.239 150 150 152.239 150 155C150 157.761 152.239 160 155 160Z" fill="#55B3B1"/>
+<path d="M185 160C187.761 160 190 157.761 190 155C190 152.239 187.761 150 185 150C182.239 150 180 152.239 180 155C180 157.761 182.239 160 185 160Z" fill="#F6C065"/>
+<path d="M215 160C217.761 160 220 157.761 220 155C220 152.239 217.761 150 215 150C212.239 150 210 152.239 210 155C210 157.761 212.239 160 215 160Z" fill="#F6C065"/>
+<path d="M5 190C7.76142 190 10 187.761 10 185C10 182.239 7.76142 180 5 180C2.23858 180 0 182.239 0 185C0 187.761 2.23858 190 5 190Z" fill="#F6C065"/>
+<path d="M35 190C37.7614 190 40 187.761 40 185C40 182.239 37.7614 180 35 180C32.2386 180 30 182.239 30 185C30 187.761 32.2386 190 35 190Z" fill="#F6C065"/>
+<path d="M65 190C67.7614 190 70 187.761 70 185C70 182.239 67.7614 180 65 180C62.2386 180 60 182.239 60 185C60 187.761 62.2386 190 65 190Z" fill="#F6C065"/>
+<path d="M95 190C97.7614 190 100 187.761 100 185C100 182.239 97.7614 180 95 180C92.2386 180 90 182.239 90 185C90 187.761 92.2386 190 95 190Z" fill="#F6C065"/>
+<path d="M125 190C127.761 190 130 187.761 130 185C130 182.239 127.761 180 125 180C122.239 180 120 182.239 120 185C120 187.761 122.239 190 125 190Z" fill="#F6C065"/>
+<path d="M155 190C157.761 190 160 187.761 160 185C160 182.239 157.761 180 155 180C152.239 180 150 182.239 150 185C150 187.761 152.239 190 155 190Z" fill="#F6C065"/>
+<path d="M185 190C187.761 190 190 187.761 190 185C190 182.239 187.761 180 185 180C182.239 180 180 182.239 180 185C180 187.761 182.239 190 185 190Z" fill="#F6C065"/>
+<path d="M215 190C217.761 190 220 187.761 220 185C220 182.239 217.761 180 215 180C212.239 180 210 182.239 210 185C210 187.761 212.239 190 215 190Z" fill="#F6C065"/>
+<path d="M5 220C7.76142 220 10 217.761 10 215C10 212.239 7.76142 210 5 210C2.23858 210 0 212.239 0 215C0 217.761 2.23858 220 5 220Z" fill="#F6C065"/>
+<path d="M35 220C37.7614 220 40 217.761 40 215C40 212.239 37.7614 210 35 210C32.2386 210 30 212.239 30 215C30 217.761 32.2386 220 35 220Z" fill="#F6C065"/>
+<path d="M65 220C67.7614 220 70 217.761 70 215C70 212.239 67.7614 210 65 210C62.2386 210 60 212.239 60 215C60 217.761 62.2386 220 65 220Z" fill="#F6C065"/>
+<path d="M95 220C97.7614 220 100 217.761 100 215C100 212.239 97.7614 210 95 210C92.2386 210 90 212.239 90 215C90 217.761 92.2386 220 95 220Z" fill="#F6C065"/>
+<path d="M125 220C127.761 220 130 217.761 130 215C130 212.239 127.761 210 125 210C122.239 210 120 212.239 120 215C120 217.761 122.239 220 125 220Z" fill="#F6C065"/>
+<path d="M155 220C157.761 220 160 217.761 160 215C160 212.239 157.761 210 155 210C152.239 210 150 212.239 150 215C150 217.761 152.239 220 155 220Z" fill="#F6C065"/>
+<path d="M185 220C187.761 220 190 217.761 190 215C190 212.239 187.761 210 185 210C182.239 210 180 212.239 180 215C180 217.761 182.239 220 185 220Z" fill="#F6C065"/>
+<path d="M215 220C217.761 220 220 217.761 220 215C220 212.239 217.761 210 215 210C212.239 210 210 212.239 210 215C210 217.761 212.239 220 215 220Z" fill="#F6C065"/>
 </svg>

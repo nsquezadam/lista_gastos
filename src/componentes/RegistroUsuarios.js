@@ -1,8 +1,8 @@
 import React from 'react';
 import {Helmet} from 'react-helmet';
 import styled from 'styled-components';
-import {Header,Titulo,ContenedorHeader,ContenedorBotones} from '../elementos/Header'
-import {ContenedorFiltros,Formulario,Input,InputGrande,ContenedorBoton} from './../elementos/ElementosDeFormulario'
+import {Header,Titulo,ContenedorHeader} from '../elementos/Header'
+import {Formulario,Input,ContenedorBoton} from './../elementos/ElementosDeFormulario'
 import Boton from './../elementos/Boton'
 import {ReactComponent as SvgLogin} from './../imagenes/registro.svg'
 
@@ -27,7 +27,7 @@ const RegistroUsuarios = () => {
        <ContenedorHeader>
          <Titulo>Crear Cuenta</Titulo>
          <div>
-         <Boton>Iniciar Sesion</Boton>
+         <Boton to="/iniciar-sesion">Iniciar Sesion</Boton>
          </div>
        </ContenedorHeader>
      </Header>
@@ -48,12 +48,13 @@ const RegistroUsuarios = () => {
       //  onChange={}
       />
        <Input 
-       type="password" 
-       name="password2" 
-       placeholder=" Repetir Contraseña"
-      //  value={}
-      //  onChange={}
-      />
+      type="password" 
+      name="password2" 
+      placeholder=" Repetir Contraseña"
+     //  value={}
+     //  onChange={}
+     />
+     
       <ContenedorBoton>
       <Boton  as="button"primario type="submit">Crear Cuenta</Boton>
       </ContenedorBoton>

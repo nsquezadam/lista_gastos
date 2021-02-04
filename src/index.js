@@ -13,6 +13,7 @@ import EditarGasto from './componentes/EditarGasto'
 import GastosPorCategoria from './componentes/GastosPorCategoria'
 import ListaDeGastos from './componentes/ListaDeGastos'
 import RegistroUsuarios from './componentes/RegistroUsuarios'
+import Presupuesto from './componentes/Presupuesto'
 import Fondo  from './elementos/Fondo'
 import Favicon from './imagenes/logo.svg'
 
@@ -37,6 +38,7 @@ const Index = () =>{
       <Switch>
         <Route path="/iniciar-sesion" component={InicioSesion}/>
         <Route path='/crear-cuenta' component={RegistroUsuarios}/>
+        <Route path='/presupuesto' component={Presupuesto}/>
         <Route path='/categorias' component={GastosPorCategoria}/>
         <Route path='/lista' component={ListaDeGastos}/>
         <Route path='/editar/:id' component={EditarGasto}/>

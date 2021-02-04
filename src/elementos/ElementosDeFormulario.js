@@ -17,7 +17,7 @@ const ContenedorFiltros = styled.div`
 `;
  
 const Formulario = styled.form`
-    padding: 0 2.5rem; /* 40px */
+    padding: 0 2rem; /* 40px */
  
     height: 100%;
     display: flex;
@@ -26,7 +26,7 @@ const Formulario = styled.form`
     input {
         width: 100%;
         text-align: center;
-        padding: 2.5rem 0;
+        padding: 2rem 0;
         font-family: 'Work Sans', sans-serif;
         &::placeholder {
             color: rgba(0,0,0,.2);
@@ -39,19 +39,19 @@ const Formulario = styled.form`
 `;
  
 const Input = styled.input`
-    font-size: 2.5rem; /* 40px */
+    font-size: 2rem; /* 40px */
     text-transform: uppercase;
     border: none;
     border-bottom: 2px solid ${theme.grisClaro};
     outline: none;
  
     @media(max-width: 60rem){ /* 950px */
-        font-size: 2.2rem; /* 24px */
+        font-size: 2rem; /* 24px */
     }
 `;
  
 const InputGrande = styled(Input)`
-    font-size: 4.37rem; /* 70px */
+    font-size: 4rem; /* 70px */
     font-weight: bold;
 `;
  

@@ -20,6 +20,7 @@ const App = () => {
       <ContenedorHeader>
         <Titulo>Agregar Gasto</Titulo>
         <ContenedorBotones>
+          <Boton to="/presupuesto">Presupuesto Mensual</Boton>
           <Boton to="/categorias">Categorias</Boton>
           <Boton to="/lista">Lista de Gasto</Boton>
           <Boton>X</Boton>
